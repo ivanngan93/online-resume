@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# calculator app
+- project: Calculator App
+  role: Personal Project
+  duration: Sept 2017
+  url: https://github.com/ivanngan93/react-calculator
+  description: <ul class="resume-item-list"><li>Developed a static calculator application, built for Android and IOS devices using React Native</li><li>Utilized React Native functionalities Flexbox and StyleSheets for UI</li></ul>
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# game of thrones app
+- project: Game of Thrones Index
+  role: Personal Project
+  duration: Sept 2017
+  url: https://ivanngan93.github.io/Game-Of-Thrones-Index/
+  description: <ul class="resume-item-list"><li>Created a Game of Thrones' character index with on-change search functionality</li><li>Implemented application as a static webpage using React, ES6, and Material-UI</li><li>Built and deployed to https://ivanngan93.github.io/game-of-thrones-index</li></ul>
+
+# space shooter app
+- project: Space Shooter
+  role: Personal Project
+  duration: Jul 2016 &mdash; Aug 2016
+  description: <ul class="resume-item-list"><li>Developed a top-down arcade style shooter game, using Unity and C#</li><li>Designed to allow player-ship to move, shoot, and interact with other objects in the scene</li><li>Imported pre-designed models, audio effects, and background to stimulate attraction</li><li>Designed game controller to manage random hazard spawns, score systems, and menu functionality</li></ul>

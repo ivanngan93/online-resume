@@ -1,19 +1,13 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# SAP SE
+- company: SAP SE
+  position: Intern Mobile Web Front End Developer
+  duration: Jan 2017 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Created web applications to help SAP and partners transact on desktop, tablets, and mobile devices</li><li>Worked as a front-end developer that utilized MVC architecture, specializing in SAPUI5</li><li>Successfully cooperated in a global team using Agile Scrum software development methodology</li><li>Initiated and explored the role of Test Automation Lead, using Selenium and WorkSoft</li><li>Created and updated Technical Design Documents (TDD) and other relevant process documentations</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Glentel Inc
+- company: Glentel Inc
+  position: Junior System Administrator
+  duration:  Aug 2014 &mdash; Apr 2015
+  summary: <ul class="resume-item-list"><li>Implemented and documented multiple OS images for POS systems in over 500 Canadian retail stores</li><li>Interacted with vendors to successfully test and examine newly built computer images</li><li>Managed all hardware assets in retail and corporate locations, using Microsoft Dynamics AX</li><li>Devised and maintained the integrity of backup servers using a Grandfather-father-son scheme</li><li>Trained and provided IT technical support for retail and head office users</li></ul>
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
